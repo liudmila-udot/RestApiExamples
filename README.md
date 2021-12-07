@@ -114,8 +114,6 @@ But PATCH is much more general in how you can change a resource (check [this](ht
 From
 https://medium.com/geekculture/rest-api-best-practices-decouple-long-running-tasks-from-http-request-processing-9fab2921ace8
 
-![](RestAPI_long_running_from_medium.png)
-
 ## Jax-RS vs Spring MVC
 https://stackoverflow.com/questions/42944777/difference-between-jax-rs-and-spring-rest
 
